@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Nils412
+- 👀 I’m interested in Gaming, Programing and sports
+- 🌱 I’m currently learning c#
+- 📫 How to reach me: Discord @nils2007
